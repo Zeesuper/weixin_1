@@ -6,7 +6,7 @@ import org.springframework.web.bind.annotation.RequestParam;
 
 
 @Controller
-@RequestMapping("/lzc/message/receiver")
+@RequestMapping("/lzc/weixin/receiver")
 public class MessageReceiverController {
 	
 	public String echo(
