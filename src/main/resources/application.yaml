@@ -3,4 +3,3 @@ spring.datasource:
  username: kemao_1
  password: root
  
-server.port : 8082
